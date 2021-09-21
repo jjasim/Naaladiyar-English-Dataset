@@ -8,7 +8,7 @@ The Naladiyar (lit. Four Hundred Quatrains) is one of the great ancient works of
 
 The work is arranged into three parts.
 - The first part on Virtue has 13 chapters.
-- The second part on Wealth has 25 chapters.
+- The second part on Wealth has 26 chapters.
 - The third part on Love has 1 chapter.
 
 Each chapter has 10 quatrains.
@@ -18,3 +18,6 @@ This English translation has been gleaned from [Project Madurai](https://www.pro
 ## About
 This repo contains three files.
 
+* [Naladiyar_Chapters_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Chapters_Eng.txt) contains the English translation of all 40 chapters of the Naladiyar.
+
+* [Naladiyar_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Eng.txt) contains the English translation of all 400 Naladiyar quatrains with each line in the file containing a quatrain. In this file individual lines in the quatrain are concatenated into one using '$' as the delimiter for convenience.
