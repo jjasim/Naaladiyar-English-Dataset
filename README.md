@@ -18,6 +18,6 @@ This English translation has been gleaned from [Project Madurai](https://www.pro
 ## About
 This repo contains three files.
 
-* [Naaladiyar_Chapters_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Chapters_Eng.txt) contains the English translation of all 40 chapters of the Naaladiyar.
+* [Naaladiyar_Chapters_Eng.txt](https://github.com/jjasim/Naaladiyar-English-Dataset/blob/main/Naaladiyar_Chapters_Eng.txt) contains the English translation of all 40 chapters of the Naaladiyar.
 
-* [Naaladiyar_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Eng.txt) contains the English translation of all 400 Naaladiyar quatrains with each line in the file containing a quatrain. In this file individual lines in the quatrain are concatenated into one using '$' as the delimiter for convenience.
+* [Naaladiyar_Eng.txt](https://github.com/jjasim/Naaladiyar-English-Dataset/blob/main/Naaladiyar_Eng.txt) contains the English translation of all 400 Naaladiyar quatrains with each line in the file containing a quatrain. In this file individual lines in the quatrain are concatenated into one using '$' as the delimiter for convenience.
